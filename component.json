@@ -2,6 +2,7 @@
   "name": "bootstrap",
   "version": "2.3.1",
   "description": "twitter bootstrap",
+  "main": "docs/assets/js/bootstrap.js",
   "scripts": [
     "docs/assets/js/bootstrap.js"
   ],

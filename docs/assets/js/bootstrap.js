@@ -17,6 +17,9 @@
  * limitations under the License.
  * ========================================================== */
 
+if (require) {
+  window.jQuery = require('jquery');
+}
 
 !function ($) {
 
